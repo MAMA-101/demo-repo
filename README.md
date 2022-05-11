@@ -1,3 +1,3 @@
 #Demo
 
- being a github user is amazing
+ being a github user is amazing.
